@@ -62,6 +62,7 @@
   </ul>
 </div>
 <!--tech stack icons-->
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/SQL-Logo.svg" alt="SQL" width="40" height="40"/>
@@ -69,10 +70,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Linux_logo.png" alt="Linux" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
 </p>
-
-
-
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
