@@ -64,9 +64,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,git,postgresql,mysql,linux,visualstudiocode,pandas,numpy,flask&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,sql,git,postgresql,mysql,linux,visualstudiocode&perline=6" />
   </a>
 </p>
+
 
 
 
@@ -85,8 +86,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/yil2190/yil2190/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?username=yil2190" alt="snake">
 </p>
+
 
 
 
