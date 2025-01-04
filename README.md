@@ -27,7 +27,7 @@
 
 - 📫 Feel free to reach me out **yilmaespitia@gmail.com**
 
-🏠 Don't hesitate to drop me a **👋** on Discord – [Yil2190](https://discordapp.com/users/yil2190#4958)
+- 🏠 Don't hesitate to drop me a **👋** on Discord – [Yil2190](https://discordapp.com/users/yil2190#4958)
 
 <!--Intro end-->
 
