@@ -64,11 +64,9 @@
 <!--tech stack icons-->
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/SQL-Logo.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Git-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Linux_logo.png" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sql,git,linux,vscode&perline=6" />
+  </a>
 </p>
 
 <!-- Connect with me -->
