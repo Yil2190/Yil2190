@@ -35,6 +35,8 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=yil2190&theme=dark&show_icons=true&count_private=true" />
 
   <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yil2190&theme=dark&hide_border=false" />
+
 
 </td>
 
@@ -82,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yilmaespitia&bg_color=1e1e1e&color=f0f0f0&line=f08080&point=ff6347&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yil2190&bg_color=1e1e1e&color=f0f0f0&line=f08080&point=ff6347&area=true&hide_border=true" />
 </p>
 
 
