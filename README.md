@@ -57,7 +57,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <h2 align="center">Technologies That I Know👨🏻‍💻</h2>
+
   </ul>
 </div>
 <!--tech stack icons-->
@@ -84,10 +85,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yil2190&bg_color=1e1e1e&color=f0f0f0&line=f08080&point=ff6347&area=true&hide_border=true" />
+  <img src="https://github.com/yil2190/yil2190/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-
 
 
 
