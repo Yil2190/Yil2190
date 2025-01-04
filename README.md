@@ -13,12 +13,8 @@
 
 <!--- snake -->
 <div align="center">
-  <a href="https://linkdondequieresquevaya.com">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-  </a>
+  <img src="https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/ruta/a/la/imagen.svg" alt="snake" />
 </div>
-
-
 
 
 
