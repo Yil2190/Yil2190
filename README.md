@@ -13,7 +13,7 @@
 
 <!--Intro start-->
 
-- 🌱 I'm currently studying Software and Data Engineering and passionate about technology and data-driven solutions.
+- 🎓 I'm currently studying Software and Data Engineering and passionate about technology and data-driven solutions.
 
 - 💬 Ask me about **Python, SQL, Data Analysis, and Software Engineering**.
 
